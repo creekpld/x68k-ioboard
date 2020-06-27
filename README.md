@@ -16,5 +16,3 @@ Made with KiCAD v5.1.6
 ## Acknowledgments
 
 Inspired by the [Sunhayato MMC-169](img/MMC-169-Back.jpg)
-
-- [NFG / GameSX Wiki](https://gamesx.com/wiki/doku.php?id=x68000:rs232_null_modem_cable_with_partial_handshaking)
