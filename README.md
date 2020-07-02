@@ -14,7 +14,9 @@ Made with KiCAD v5.1.6
 
 ## Production 
 
-- [pcbway project](https://www.pcbway.com/project/shareproject/x68k_ioboard.html)
+- [aisler project (europe)](https://aisler.net/p/GFBVLUGZ)
+
+- [pcbway project (china)](https://www.pcbway.com/project/shareproject/x68k_ioboard.html)
 
 - [Gerber files](KiCad/x68k-ioboard/gerbers)
 
