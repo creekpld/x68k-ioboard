@@ -14,7 +14,7 @@ Made with KiCAD v5.1.6
 
 ## Production 
 
-- [aisler project (europe)](https://aisler.net/p/GFBVLUGZ)
+- [aisler project (europe)](https://aisler.net/p/YBGEZLWP)
 
 - [pcbway project (china)](https://www.pcbway.com/project/shareproject/x68k_ioboard.html)
 
