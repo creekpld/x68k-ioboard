@@ -1,3 +1,7 @@
+# This is not the Repo you are looking for! :alien:
+
+New development is taking place in [gitlab.com/pdylong/x68k-ioboard](https://gitlab.com/pdylong/x68k-ioboard) :ok_hand:.
+
 # x68k-ioboard
 
 An IO-Expansion Prototype PCB Board for the [X68000](https://en.wikipedia.org/wiki/X68000).
